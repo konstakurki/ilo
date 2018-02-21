@@ -1,11 +1,10 @@
-Event                                           Year    Relevance
+Invention, year, relevance, type, url
 World Wide Web, 1990
 Earth-orbiting satellite (Sputnik 1), 1957
 ARPANET (predecessor of Internet),              1969
 Programmable universal computer (Z1),           1938
 Dynamite,                                       1867
 Transistor,                                     1947
-Vacuum tube,                                    1904
 Light bulb,                                     1897
 Ballpoint pen,                                 1888
 Rechargeable battery,                           1859
@@ -19,7 +18,7 @@ Graphical user interface,                       1963
 Intergrated circuit,                            1958
 Capacitive touchscreen,                         1973
 X-ray imaging,                                  1869
-MRI,                                            1971
+Magnetic resonance imaging, 1971
 Heart transplantation,                          1967
 Airplane,                                       1903
 Usenet,                                         1979
@@ -29,7 +28,7 @@ Plastic (Parkesine),                            1856
 Agriculture,                                    -10000, 100
 Saw, -5100
 Hafted axe, -6000
-Tinder dating app,                              2012
+Tinder dating protocol,                              2012
 Screw, -2300
 Turing-complete smart contracts (Ethereum),     2013
 Public-key cryptography,                        1973
@@ -41,6 +40,13 @@ Wheelbarrow, 118
 Foodcan, 1810
 Modern smartphone (iPhone), 2007
 Concept of smartphone, 1927
+Zeppelin, 1900
+Gas turbine, 1903
+Vacuum tube, 1904
+Television broadcast, 1909
+Cloud chamber, 1911
+Crystal oscillator, 1917
+Quartz clock, 1927
 Wheel, -4200
 Writing, -3000
 Bronze, -3000
@@ -73,7 +79,7 @@ Glass blowing, -100
 Seismometer, 132
 Crank and connecting rod, 280
 Horse collar, 450
-Tolet paper, 589
+Toilet paper, 589
 Windmill, 650
 Banknote, 650
 Mechanical clock, 725
@@ -97,3 +103,68 @@ Telescope, 1608
 Barometer, 1643
 Pendulum clock, 1656
 Vacuum pump, 1650
+Cryptography, -1900
+Genetically modified animal, 1974
+Neuraxial anesthesia, 1885
+Human genome sequencing, 2000,-,-,https://en.wikipedia.org/wiki/Human_Genome_Project
+Bionic eye, 2006,-,-,https://en.wikipedia.org/wiki/Argus_retinal_prosthesis
+Kidney cultivated in laboratory, 2013
+Stem cell therapy, 1998
+DNA testing, 1984
+In vitro fertilization, 1959,-,-,https://en.wikipedia.org/wiki/In_vitro_fertilization
+Pacemaker, 1958
+Polio vaccine, 1952
+Painless surgery, 1846
+Micoscope, 1590
+Telephone, 1870
+Penicillin, 1928
+Flushing toilet, 1596
+Internal combustion engine, 1859
+Contraceptive pill, 1957
+Automatic washing machine, 1937
+Dishwasher, 1850
+Ranked web search, 1996
+Vacuum cleaner, 1860
+Steam locomotive, 1804
+Python programming language, 1991
+Microwave oven, 1933
+SMTP email, 1982
+Toothbrush, 630
+Fork, -2300
+Dagger, -3000
+Package management system, 1994
+Computer mouse, 1968
+CRT display, 1925
+Nail, -3400
+Pocket calculator, 1970
+Plumbing, -2700
+Tobacco, -1000
+Synthetic antibiotics, 1880
+GPS, 1973
+Bar code, 1948
+FM radio, 1933
+Automatic teller machine, 1962
+Digital camera, 1975
+Automobile, 1886
+Stainless steel, 1872
+Concrete, -6500
+Vaccination, 1796
+Nitrogen fixation, 1918
+Sanitation, -111111111111111111111111
+Arch, -1850
+Sextant, 1731
+Nuclear power station, 1948
+Telegraph, 1767
+Camera, 1816
+Archimedes’s screw, -250
+Oil drilling, 347
+Abacus, -2700
+Assembly line, 1913
+Lever, -300
+Steel, -1800
+Movable type, 1040
+Electromagnet, 1824
+Asphalt, -4000
+Quantum computer, 2012
+Fiberglass boat, 1937
+Jukebox, 1889

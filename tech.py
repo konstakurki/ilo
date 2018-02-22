@@ -6,7 +6,7 @@ import csv
 
 startyear = -10000
 present = 2018
-singularity = 2060
+singularity = 2056
 
 events = {}
 with open('timelineoftech.csv','r',newline='') as f:
@@ -37,9 +37,10 @@ def linear(events):
     print('THE PRESENT ({})'.format(present))
 
 def logarithmic(events):
-    steps = range(0,500)
-    steps = [math.exp(i*0.02) for i in steps]
+    steps = range(0,1000)
+    steps = [1.01**i for i in steps]
     steps = steps[::-1]
+    print(steps)
     for i in range(len(steps)-1):
         invs = ''
         for n in range(int(steps[i+1]),int(steps[i]))[::-1]:
